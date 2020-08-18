@@ -8,7 +8,10 @@
 ImportError: cannot import name 'XGBClassifier' from 'xgboost'
 ```
 
-**解決方法**
+### 解決方法
+
+
+
 おそらくファイル名がxgboost.pyになっていると思う。
 xgboostから他の名前に変更する
 
